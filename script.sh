@@ -1,9 +1,9 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Your Name
+# Author: kartik kashyap
 # Course: Open Source Software
 
-STUDENT_NAME="Kartik Kashyap"
+STUDENT_NAME="kartik kashyap"
 SOFTWARE_CHOICE="Firefox"
 
 KERNEL=$(uname -r)
@@ -23,4 +23,3 @@ echo "User : $USER_NAME"
 echo "Uptime : $UPTIME"
 echo "Date : $DATE"
 echo "License : Linux is released under the GPL License"
-
